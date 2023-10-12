@@ -1,6 +1,14 @@
 {
   "extras": [
-
+    "dap.core",
+    "dap.nlua",
+    "lang.go",
+    "lang.json",
+    "lang.python",
+    "lang.terraform",
+    "lang.typescript",
+    "test.core",
+    "util.project"
   ],
   "news": {
     "NEWS.md": "2035"
