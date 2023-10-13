@@ -1,16 +1,17 @@
 {
   "extras": [
-    "dap.core",
-    "dap.nlua",
-    "lang.go",
-    "lang.json",
-    "lang.python",
-    "lang.terraform",
-    "lang.typescript",
-    "test.core",
-    "util.project"
+    "lazyvim.plugins.extras.dap.core",
+    "lazyvim.plugins.extras.test.core",
+    "lazyvim.plugins.extras.dap.nlua",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.json",
+    "lazyvim.plugins.extras.lang.python",
+    "lazyvim.plugins.extras.lang.terraform",
+    "lazyvim.plugins.extras.lang.typescript",
+    "lazyvim.plugins.extras.util.project"
   ],
   "news": {
-    "NEWS.md": "2035"
-  }
+    "NEWS.md": "2123"
+  },
+  "version": 1
 }
