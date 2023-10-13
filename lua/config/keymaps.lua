@@ -6,3 +6,5 @@ vim.keymap.set("n", "<C-h>", "<cmd>TmuxNavigateLeft<cr>", { desc = "Left window"
 vim.keymap.set("n", "<C-j>", "<cmd>TmuxNavigateDown<cr>", { desc = "Lower window" })
 vim.keymap.set("n", "<C-k>", "<cmd>TmuxNavigateUp<cr>", { desc = "Upper window" })
 vim.keymap.set("n", "<C-l>", "<cmd>TmuxNavigateRight<cr>", { desc = "Right window" })
+
+vim.keymap.set("n", "<leader>bo", "<cmd>%bd|e#|bd#<cr><cr>", { desc = "Delete all buffers except current" })
