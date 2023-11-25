@@ -1,13 +1,17 @@
 {
-  "name": "Custom snippets",
+  "name": "custom-snippets",
   "contributes": {
     "snippets": [
       {
-        "language": ["json"],
+        "language": [
+          "json"
+        ],
         "path": "./json.json"
       },
       {
-        "language": ["terraform"],
+        "language": [
+          "terraform"
+        ],
         "path": "./terraform.json"
       }
     ]
