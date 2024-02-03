@@ -4,3 +4,4 @@
 vim.g.mapleader = ","
 
 vim.opt.conceallevel = 0
+vim.opt.foldmethod = "manual"
