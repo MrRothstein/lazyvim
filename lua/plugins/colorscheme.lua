@@ -1,9 +1,9 @@
 return {
-  "ellisonleao/gruvbox.nvim",
+  "tjdevries/colorbuddy.nvim",
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "gruvbuddy",
     },
   },
 }
