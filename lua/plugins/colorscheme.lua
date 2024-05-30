@@ -1,9 +1,9 @@
 return {
-  "tjdevries/colorbuddy.nvim",
+  "projekt0n/github-nvim-theme",
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbuddy",
+      colorscheme = "github_dark_high_contrast",
     },
   },
 }
