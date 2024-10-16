@@ -3,5 +3,7 @@
 -- Add any additional options here
 vim.g.mapleader = ","
 
+vim.g.python3_host_prog = "~/.pyenv/versions/.py3nvim/bin/python"
+
 vim.opt.conceallevel = 0
 vim.opt.foldmethod = "manual"
