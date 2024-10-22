@@ -12,7 +12,7 @@ return {
               },
               {
                 name = "JavaSE-17",
-                path = "~/.sdkman/candidates/java/17.0.17-tem/",
+                path = "~/.sdkman/candidates/java/17.0.13-tem/",
               },
               {
                 name = "JavaSE-21",
