@@ -2,6 +2,7 @@ return {
   "folke/snacks.nvim",
   opts = {
     dashboard = { enabled = false },
+    image = { enabled = true },
     picker = {
       sources = {
         explorer = {
@@ -11,5 +12,6 @@ return {
         },
       },
     },
+    statuscolumn = { enabled = true },
   },
 }
