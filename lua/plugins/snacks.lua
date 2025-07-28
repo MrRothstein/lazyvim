@@ -10,6 +10,11 @@ return {
           ignored = true,
           exclude = { "node_modules", ".git" },
         },
+        files = {
+          hidden = true,
+          ignored = true,
+          exclude = { "node_modules", ".git" },
+        },
       },
     },
     statuscolumn = { enabled = true },
