@@ -57,6 +57,5 @@ return {
     "nvim-lua/plenary.nvim",
     "nvim-treesitter/nvim-treesitter",
     "ravitemer/mcphub.nvim",
-    "olimorris/codecompanion.nvim",
   },
 }
