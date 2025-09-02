@@ -10,8 +10,8 @@ return {
     },
   },
   keys = {
-    { "<leader>dvo", "<cmd>DiffviewOpen<cr>", desc = "Open Diffview" },
-    { "<leader>dvh", "<cmd>DiffviewFileHistory<cr>", desc = "Open Diffview File History" },
+    { "<leader>dvo", "<cmd>DiffviewOpen<cr>", desc = "Diffview Open" },
+    { "<leader>dvh", "<cmd>DiffviewFileHistory<cr>", desc = "Diffview File History" },
     { "<leader>dvc", "<cmd>DiffviewClose<cr>", desc = "Close Diffview Tab" },
   },
 }
