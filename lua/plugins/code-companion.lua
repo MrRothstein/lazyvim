@@ -2,6 +2,17 @@ return {
   "olimorris/codecompanion.nvim",
   ---@module "vectorcode"
   opts = {
+    adapters = {
+      acp = {
+        claude_code = function()
+          return require("codecompanion.adapters").extend("claude_code", {
+            env = {
+              CLAUDE_CODE_OAUTH_TOKEN = "cmd:op read 'op://private/CLAUDE CODE TOKEN/credential' --no-newline",
+            },
+          })
+        end,
+      },
+    },
     extensions = {
       mcphub = {
         callback = "mcphub.extensions.codecompanion",
