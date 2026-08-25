@@ -18,7 +18,7 @@ return {
     },
   },
   keys = {
-    { "-", ":Oil<CR>", mode = "n", desc = "Open prent directory with Oil" },
+    { "-", ":Oil --preview<CR>", mode = "n", desc = "Open prent directory with Oil" },
   },
   lazy = false,
 }
