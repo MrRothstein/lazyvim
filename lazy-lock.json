@@ -1,6 +1,6 @@
 {
   "LazyVim": { "branch": "main", "commit": "999700997f72227187d49d8b92667183dc7fc809" },
-  "SchemaStore.nvim": { "branch": "main", "commit": "d93ef1e8365950420ea3e706e82caf65dc9ff968" },
+  "SchemaStore.nvim": { "branch": "main", "commit": "83b0f1dc1ef1cc736bb4216654b1d173bcaf4ba6" },
   "VectorCode": { "branch": "main", "commit": "56f21eb1371c10e720e31b5621f8c9448da78748" },
   "aerial.nvim": { "branch": "master", "commit": "28fe6e822ae344544c379d60fcb13c9519a1f08a" },
   "blink-copilot": { "branch": "main", "commit": "7ad8209b2f880a2840c94cdcd80ab4dc511d4f39" },
@@ -53,7 +53,7 @@
   "persistence.nvim": { "branch": "main", "commit": "b20b2a7887bd39c1a356980b45e03250f3dce49c" },
   "plenary.nvim": { "branch": "master", "commit": "74b06c6c75e4eeb3108ec01852001636d85a932b" },
   "project.nvim": { "branch": "main", "commit": "8c6bad7d22eef1b71144b401c9f74ed01526a4fb" },
-  "render-markdown.nvim": { "branch": "main", "commit": "640a3ec6d538bad17c328be373c7cad0293d9589" },
+  "render-markdown.nvim": { "branch": "main", "commit": "245956d67572c137df375dbf256e96bdb07e0937" },
   "rustaceanvim": { "branch": "master", "commit": "b25d186481624964523fee34f44c529b101c7435" },
   "sidekick.nvim": { "branch": "main", "commit": "3d80a47e6375f6d647c9695d3afea6fa1b3275df" },
   "smart-splits.nvim": { "branch": "master", "commit": "ec76708f1617ef9e2ac353357fe52d2c997a0f06" },
